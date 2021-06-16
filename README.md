@@ -26,7 +26,7 @@ Some of the important position properties are Static,relative,absolute,fixed.
 .Relative : The element is positioned relative to its normal position, so "left:20px" adds 20 pixels to the element's LEFT position.
 .Fixed : The element is positioned relative to the browser window.
  
-                                          -------------            *****************************************       --------------
+               -------------       *******************       --------------
   
   
 
