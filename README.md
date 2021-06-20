@@ -1,6 +1,8 @@
 # personal_website
 udemy course project(css module)
 
+<a href="https://venvar.github.io/personal_website/">preview-link</a>
+
 This project is a personal website using css.This project explains various concepts of css like Box-Modeling,Static,relative and absolute positionings and many more.
 
 # Box-Model
